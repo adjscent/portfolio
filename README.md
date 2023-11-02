@@ -33,3 +33,8 @@ Hi
 - https://github.com/adjscent/react-card-listing
 - https://github.com/adjscent/sell_leh
 - https://github.com/adjscent/tiny_cac
+
+
+## Unknown
+- https://github.com/adjscent/reverent_kilby
+- https://github.com/adjscent/hacknroll2019
