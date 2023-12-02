@@ -22,13 +22,14 @@ Hi
   
 ## School
 - CS3245 https://github.com/adjscent/intellex
-- CS2102 https://github.com/adjscent/cs2102_project
+- CS3203 https://github.com/adjscent/CS3203_Project
 - CS2103 https://github.com/adjscent/addressbook-level3
-- CS3203 https://github.com/fanyiii/CS3203_Project
+- CS2102 https://github.com/adjscent/cs2102_project
 
 
 ## Private
 - https://github.com/adjscent/google-console-react
+- https://github.com/adjscent/currency-converter-react
 - https://github.com/adjscent/react-map-interest
 - https://github.com/adjscent/react-card-listing
 - https://github.com/adjscent/sell_leh
