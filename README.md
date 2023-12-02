@@ -18,7 +18,7 @@ Hi
 ## Fun
 - Just yet another CLI old maid game in Java. https://github.com/adjscent/OldMaidGame
 - Yet another softether installer script https://github.com/adjscent/softether_installer
-- Currency Converter in Javascript and Python https://github.com/adjscent/currencyconverter
+- dotfiles https://github.com/adjscent/dotfiles
   
 ## School
 - CS3245 https://github.com/adjscent/intellex
