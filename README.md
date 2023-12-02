@@ -39,10 +39,11 @@ Hi I am Jason.
 - CS2030 https://github.com/adjscent/cs2030
 
 ## Private
-- https://github.com/adjscent/google-console-react
-- https://github.com/adjscent/currency-converter-react
-- https://github.com/adjscent/react-map-interest
-- https://github.com/adjscent/react-card-listing
+- https://github.com/adjscent/google-console-react - [Link](https://googlequery.imsj.dev/)
+- https://github.com/adjscent/currency-converter-react - [Link](https://currencyconverter.imsj.dev/)
+- https://github.com/adjscent/react-map-interest - [Link](https://map.imsj.dev/)
+- https://github.com/adjscent/react-notepad - [Link](https://notepad.imsj.dev/)
+- https://github.com/adjscent/react-card-listing - [Link](https://imsj.dev/)
 - https://github.com/adjscent/sell_leh
 - https://github.com/adjscent/tiny_cac
 
