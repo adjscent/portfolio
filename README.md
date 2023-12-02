@@ -1,10 +1,10 @@
-# Adjscent
+# Adjscent Portfolio
 
 ## About
-Hi
+Hi I am Jason.
 
 ## Personal
-- electron application that automatically opens up multiple browser tabs in its own window. https://github.com/adjscent/electron-headui
+- Electron application that automatically opens up multiple browser tabs in its own window. https://github.com/adjscent/electron-headui
 - Just some yubikey .net demo. https://github.com/adjscent/YubiKeyDemo
 - Tracks login and logout as a windows service. https://github.com/adjscent/CppService
 - Yet another converter to get images from pdf. https://github.com/adjscent/imagefrompdf
@@ -19,15 +19,24 @@ Hi
 ## Fun
 - Just yet another CLI old maid game in Java. https://github.com/adjscent/OldMaidGame
 - Yet another softether installer script https://github.com/adjscent/softether_installer
-- dotfiles https://github.com/adjscent/dotfiles
+- My own dotfiles https://github.com/adjscent/dotfiles
 - How to use raspberry pi + camera + speakerphone as a door monitor + two way communication. https://github.com/adjscent/raspcam
   
+## Hackathon
+- https://github.com/adjscent/reverent_kilby
+- https://github.com/adjscent/hacknroll2019
+  
 ## School
+- MSSD  https://github.com/adjscent/mssd
+- CS4238 https://github.com/adjscent/cs4238
 - CS3245 https://github.com/adjscent/intellex
 - CS3203 https://github.com/adjscent/CS3203_Project
+- CS2107 https://github.com/adjscent/cs2107
+- CS2105 https://github.com/adjscent/cs2105
 - CS2103 https://github.com/adjscent/addressbook-level3
 - CS2102 https://github.com/adjscent/cs2102_project
-
+- CS2040 https://github.com/adjscent/cs2040
+- CS2030 https://github.com/adjscent/cs2030
 
 ## Private
 - https://github.com/adjscent/google-console-react
@@ -38,6 +47,3 @@ Hi
 - https://github.com/adjscent/tiny_cac
 
 
-## Unknown
-- https://github.com/adjscent/reverent_kilby
-- https://github.com/adjscent/hacknroll2019
