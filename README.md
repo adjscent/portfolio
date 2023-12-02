@@ -5,16 +5,23 @@ Hi I am Jason.
 
 ## Personal
 - Electron application that automatically opens up multiple browser tabs in its own window. https://github.com/adjscent/electron-headui
+- Bing Visual Search demo. https://github.com/adjscent/BingVisualSearch
 - Just some yubikey .net demo. https://github.com/adjscent/YubiKeyDemo
 - Tracks login and logout as a windows service. https://github.com/adjscent/CppService
 - Yet another converter to get images from pdf. https://github.com/adjscent/imagefrompdf
 - Some os specific command line utils. https://github.com/adjscent/cmdutil
+- Check banned IP country and unban them for fail2ban. https://github.com/adjscent/fail2ban_manage
+
+## Testing
+- Bluetooth testing. https://github.com/adjscent/bluetooth_tester
+- Cuda testing. https://github.com/adjscent/cuda-test
   
 ## Hardware
 - Default petalinux boot images for zedboard. https://github.com/adjscent/zedboard_default_petalinux
 - Repository for EdgerRouter Lite Image Dumps. https://github.com/adjscent/edgerouterlite
 - Arduino script for a simple Rubber Ducky. https://github.com/adjscent/arduino_usbdrop_attack
 - Build i.MX BSP in an isolated environment with docker. https://github.com/adjscent/imx-docker
+- Build llvm-obfuscator https://github.com/adjscent/llvm-obfuscator
 
 ## Fun
 - Just yet another CLI old maid game in Java. https://github.com/adjscent/OldMaidGame
