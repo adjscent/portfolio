@@ -5,20 +5,22 @@ Hi
 
 ## Personal
 - electron application that automatically opens up multiple browser tabs in its own window. https://github.com/adjscent/electron-headui
-- Just some yubikey .net demo https://github.com/adjscent/YubiKeyDemo
-- Tracks login and logout as a windows service https://github.com/adjscent/CppService
-- Yet another converter to get images from pdf https://github.com/adjscent/imagefrompdf
-- Some os specific command line utils https://github.com/adjscent/cmdutil
+- Just some yubikey .net demo. https://github.com/adjscent/YubiKeyDemo
+- Tracks login and logout as a windows service. https://github.com/adjscent/CppService
+- Yet another converter to get images from pdf. https://github.com/adjscent/imagefrompdf
+- Some os specific command line utils. https://github.com/adjscent/cmdutil
   
 ## Hardware
-- Default petalinux boot images for zedboard https://github.com/adjscent/zedboard_default_petalinux
-- Repository for EdgerRouter Lite Image Dumps https://github.com/adjscent/edgerouterlite
-- Arduino script for a simple Rubber Ducky https://github.com/adjscent/arduino_usbdrop_attack
+- Default petalinux boot images for zedboard. https://github.com/adjscent/zedboard_default_petalinux
+- Repository for EdgerRouter Lite Image Dumps. https://github.com/adjscent/edgerouterlite
+- Arduino script for a simple Rubber Ducky. https://github.com/adjscent/arduino_usbdrop_attack
+- Build i.MX BSP in an isolated environment with docker. https://github.com/adjscent/imx-docker
 
 ## Fun
 - Just yet another CLI old maid game in Java. https://github.com/adjscent/OldMaidGame
 - Yet another softether installer script https://github.com/adjscent/softether_installer
 - dotfiles https://github.com/adjscent/dotfiles
+- How to use raspberry pi + camera + speakerphone as a door monitor + two way communication. https://github.com/adjscent/raspcam
   
 ## School
 - CS3245 https://github.com/adjscent/intellex
